@@ -1,0 +1,48 @@
+# FEBRUARY 11 2022
+
+- AI
+    - fancy sounding
+- ML 
+    - part of AI that produces actual results
+- Data Science
+    - Appliying ML to real-world problems
+
+- Falsifiability
+    - Something that can be proved wrong, linked with trustworthyness
+    - Goes out of the window when things are intagiable
+
+- All of our questions have to be falsifiable
+- If we cant answer things with scientific tools, then it is not scientific
+
+# Paradigms
+Hypothesis-driven data science
+    - start with a problem, collect/find data for research
+Problem-driven data science
+    - See above
+Data-driven data science
+    - Data set and want to find new insights
+    - Are we basing our insights on a framed problem or what we want?
+
+- Data science process 
+    - Frame the problem
+    - Collect raw data
+    - Process data
+    - Explore data
+    - Perform in-depth analysis
+    - Communicate results
+
+- Proving
+    - belongs to mathematics :^)
+    - Outside of math EVIDENCE of things is used
+    - Answering something with a HIGH PROBABILITY 
+
+- Evidence is not conclusive
+- Unclean data is like null values, extreme outliers, does it make sense in this domain?
+    - we can try to clean it using assumptions by approximating based on the surrounding data.
+
+Correlation
+    - behavior/number changes affect each other
+    - strong correlation - how certain are we that the effect takes place?
+
+- Be true to the evidence, follow the evidence
+
